@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-05-23 09:59 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-05-24 10:00 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-33675`**](https://nvd.nist.gov/vuln/detail/CVE-2026-33675) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.4**<br><sub>Vikunja is an open-source self-hosted task management platform. Prior to version 2.2.1, the m...</sub><br><sub>Published: `2026-03-24`</sub> | [**Dragonica**](https://www.google.com/search?q=Dragonica%20data%20breach&tbm=nws) &nbsp; <sub>`playdragonica.eu`</sub><br><sub>**126,293** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
-| [**`CVE-2026-33668`**](https://nvd.nist.gov/vuln/detail/CVE-2026-33668) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.1**<br><sub>Vikunja is an open-source self-hosted task management platform. Starting in version 0.18.0 an...</sub><br><sub>Published: `2026-03-24`</sub> | [**Windows93**](https://www.google.com/search?q=Windows93%20data%20breach&tbm=nws) &nbsp; <sub>`windows93.net`</sub><br><sub>**46,105** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
-| [**`CVE-2026-33474`**](https://nvd.nist.gov/vuln/detail/CVE-2026-33474) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.5**<br><sub>Vikunja is an open-source self-hosted task management platform. Starting in version 1.0.0-rc0...</sub><br><sub>Published: `2026-03-24`</sub> | [**CTT**](https://www.google.com/search?q=CTT%20data%20breach&tbm=nws) &nbsp; <sub>`ctt.pt`</sub><br><sub>**468,124** accounts compromised</sub><br><sub>Data: `email addresses` `names` `phone numbers` &nbsp;·&nbsp; Added: `2026-05-19`</sub> |
+| [**`CVE-2026-23378`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23378) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+net/sched: act_ife: Fix ...</sub><br><sub>Published: `2026-03-25`</sub> | [**7-Eleven**](https://www.google.com/search?q=7-Eleven%20data%20breach&tbm=nws) &nbsp; <sub>`7-eleven.com`</sub><br><sub>**185,256** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-24`</sub> |
+| [**`CVE-2026-23377`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23377) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+ice: change XDP RxQ frag...</sub><br><sub>Published: `2026-03-25`</sub> | [**Dragonica**](https://www.google.com/search?q=Dragonica%20data%20breach&tbm=nws) &nbsp; <sub>`playdragonica.eu`</sub><br><sub>**126,293** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
+| [**`CVE-2026-23376`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23376) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+nvmet-fcloop: Check remo...</sub><br><sub>Published: `2026-03-25`</sub> | [**Windows93**](https://www.google.com/search?q=Windows93%20data%20breach&tbm=nws) &nbsp; <sub>`windows93.net`</sub><br><sub>**46,105** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
 <!-- SECURITY-END -->
 ---
