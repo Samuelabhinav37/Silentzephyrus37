@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-05-24 10:00 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-05-25 11:56 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-23378`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23378) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-net/sched: act_ife: Fix ...</sub><br><sub>Published: `2026-03-25`</sub> | [**7-Eleven**](https://www.google.com/search?q=7-Eleven%20data%20breach&tbm=nws) &nbsp; <sub>`7-eleven.com`</sub><br><sub>**185,256** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-24`</sub> |
-| [**`CVE-2026-23377`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23377) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-ice: change XDP RxQ frag...</sub><br><sub>Published: `2026-03-25`</sub> | [**Dragonica**](https://www.google.com/search?q=Dragonica%20data%20breach&tbm=nws) &nbsp; <sub>`playdragonica.eu`</sub><br><sub>**126,293** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
-| [**`CVE-2026-23376`**](https://nvd.nist.gov/vuln/detail/CVE-2026-23376) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-nvmet-fcloop: Check remo...</sub><br><sub>Published: `2026-03-25`</sub> | [**Windows93**](https://www.google.com/search?q=Windows93%20data%20breach&tbm=nws) &nbsp; <sub>`windows93.net`</sub><br><sub>**46,105** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
+| [**`CVE-2026-3109`**](https://nvd.nist.gov/vuln/detail/CVE-2026-3109) ![LOW](https://img.shields.io/badge/LOW-339900?style=flat-square) **2.2**<br><sub>Mattermost Plugins versions <=11.4 10.11.11.0 fail to validate webhook request timestamps whi...</sub><br><sub>Published: `2026-03-26`</sub> | [**7-Eleven**](https://www.google.com/search?q=7-Eleven%20data%20breach&tbm=nws) &nbsp; <sub>`7-eleven.com`</sub><br><sub>**185,256** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-24`</sub> |
+| [**`CVE-2026-3108`**](https://nvd.nist.gov/vuln/detail/CVE-2026-3108) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.0**<br><sub>Mattermost versions 11.2.x <= 11.2.2, 10.11.x <= 10.11.10, 11.4.x <= 11.4.0, 11.3.x <= 11.3.1...</sub><br><sub>Published: `2026-03-26`</sub> | [**Dragonica**](https://www.google.com/search?q=Dragonica%20data%20breach&tbm=nws) &nbsp; <sub>`playdragonica.eu`</sub><br><sub>**126,293** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
+| [**`CVE-2026-34071`**](https://nvd.nist.gov/vuln/detail/CVE-2026-34071) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.4**<br><sub>Stirling-PDF is a locally hosted web application that allows you to perform various operation...</sub><br><sub>Published: `2026-03-26`</sub> | [**Windows93**](https://www.google.com/search?q=Windows93%20data%20breach&tbm=nws) &nbsp; <sub>`windows93.net`</sub><br><sub>**46,105** accounts compromised</sub><br><sub>Data: `email addresses` `ip addresses` `passwords` &nbsp;·&nbsp; Added: `2026-05-21`</sub> |
 <!-- SECURITY-END -->
 ---
