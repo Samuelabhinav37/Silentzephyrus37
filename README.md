@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-21 11:19 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-22 13:39 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-31514`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31514) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-erofs: set fileio bio fa...</sub><br><sub>Published: `2026-04-22`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
-| [**`CVE-2026-31513`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31513) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-Bluetooth: L2CAP: Fix st...</sub><br><sub>Published: `2026-04-22`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
-| [**`CVE-2026-31512`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31512) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-Bluetooth: L2CAP: Valida...</sub><br><sub>Published: `2026-04-22`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**JCPenney**](https://www.google.com/search?q=JCPenney%20data%20breach&tbm=nws) &nbsp; <sub>`jcpenny.com`</sub><br><sub>**368,418** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `government issued ids` &nbsp;·&nbsp; Added: `2026-06-20`</sub> |
+| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**RalphLauren**](https://www.google.com/search?q=RalphLauren%20data%20breach&tbm=nws) &nbsp; <sub>`ralphlauren.com`</sub><br><sub>**139,903** accounts compromised</sub><br><sub>Data: `age groups` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
+| [**`N/A`**](https://nvd.nist.gov/vuln/detail/N/A) ![N/A](https://img.shields.io/badge/N/A-555555?style=flat-square) **N/A**<br><sub>Could not fetch.</sub><br><sub>Published: `N/A`</sub> | [**OperationEndgame4**](https://www.google.com/search?q=OperationEndgame4%20data%20breach&tbm=nws) &nbsp; <sub>``</sub><br><sub>**153,527** accounts compromised</sub><br><sub>Data: `email addresses` `passwords` &nbsp;·&nbsp; Added: `2026-06-18`</sub> |
 <!-- SECURITY-END -->
 ---
