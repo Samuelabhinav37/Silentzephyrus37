@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-06-30 11:14 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-01 11:28 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-31779`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31779) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-wifi: iwlwifi: mvm: fix ...</sub><br><sub>Published: `2026-05-01`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
-| [**`CVE-2026-31778`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31778) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-ALSA: caiaq: fix stack o...</sub><br><sub>Published: `2026-05-01`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
-| [**`CVE-2026-31777`**](https://nvd.nist.gov/vuln/detail/CVE-2026-31777) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-ALSA: ctxfi: Check the e...</sub><br><sub>Published: `2026-05-01`</sub> | [**MadisonSquareGardenSports**](https://www.google.com/search?q=MadisonSquareGardenSports%20data%20breach&tbm=nws) &nbsp; <sub>`msgsports.com`</sub><br><sub>**9,796,738** accounts compromised</sub><br><sub>Data: `customer service records` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-06-24`</sub> |
+| [**`CVE-2026-7732`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7732) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.3**<br><sub>A vulnerability was detected in code-projects BloodBank Managing System 1.0. The impacted ele...</sub><br><sub>Published: `2026-05-04`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
+| [**`CVE-2026-7731`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7731) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.3**<br><sub>A security vulnerability has been detected in code-projects BloodBank Managing System 1.0. Th...</sub><br><sub>Published: `2026-05-04`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
+| [**`CVE-2026-7730`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7730) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.3**<br><sub>A weakness has been identified in privsim mcp-test-runner 0.2.0. Impacted is the function chi...</sub><br><sub>Published: `2026-05-04`</sub> | [**MadisonSquareGardenSports**](https://www.google.com/search?q=MadisonSquareGardenSports%20data%20breach&tbm=nws) &nbsp; <sub>`msgsports.com`</sub><br><sub>**9,796,738** accounts compromised</sub><br><sub>Data: `customer service records` `email addresses` `names` &nbsp;·&nbsp; Added: `2026-06-24`</sub> |
 <!-- SECURITY-END -->
 ---
