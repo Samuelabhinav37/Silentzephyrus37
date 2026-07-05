@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-04 10:16 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-05 10:22 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-30923`**](https://nvd.nist.gov/vuln/detail/CVE-2026-30923) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>ModSecurity is an open source, cross platform web application firewall (WAF) engine for Apach...</sub><br><sub>Published: `2026-05-05`</sub> | [**MoodyBibleInstitute**](https://www.google.com/search?q=MoodyBibleInstitute%20data%20breach&tbm=nws) &nbsp; <sub>`moody.edu`</sub><br><sub>**2,303,416** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-07-03`</sub> |
-| [**`CVE-2026-27960`**](https://nvd.nist.gov/vuln/detail/CVE-2026-27960) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.8**<br><sub>OpenCTI is an open source platform for managing cyber threat intelligence knowledge and obser...</sub><br><sub>Published: `2026-05-05`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
-| [**`CVE-2026-7853`**](https://nvd.nist.gov/vuln/detail/CVE-2026-7853) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.8**<br><sub>A weakness has been identified in D-Link DI-8100 16.07.26A1. Affected is the function sprintf...</sub><br><sub>Published: `2026-05-05`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
+| [**`CVE-2026-43197`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43197) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+netconsole: avoid OOB re...</sub><br><sub>Published: `2026-05-06`</sub> | [**MoodyBibleInstitute**](https://www.google.com/search?q=MoodyBibleInstitute%20data%20breach&tbm=nws) &nbsp; <sub>`moody.edu`</sub><br><sub>**2,303,416** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-07-03`</sub> |
+| [**`CVE-2026-43196`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43196) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+soc: ti: pruss: Fix doub...</sub><br><sub>Published: `2026-05-06`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
+| [**`CVE-2026-43195`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43195) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+drm/amdgpu: validate use...</sub><br><sub>Published: `2026-05-06`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
 <!-- SECURITY-END -->
 ---
