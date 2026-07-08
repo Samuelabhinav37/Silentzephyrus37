@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-07 11:13 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-08 10:24 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-43350`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43350) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.6**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-smb: client: require a f...</sub><br><sub>Published: `2026-05-08`</sub> | [**MoodyBibleInstitute**](https://www.google.com/search?q=MoodyBibleInstitute%20data%20breach&tbm=nws) &nbsp; <sub>`moody.edu`</sub><br><sub>**2,303,416** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-07-03`</sub> |
-| [**`CVE-2026-43349`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43349) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-f2fs: fix to avoid unini...</sub><br><sub>Published: `2026-05-08`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
-| [**`CVE-2026-43348`**](https://nvd.nist.gov/vuln/detail/CVE-2026-43348) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-mshv_vtl: Fix vmemmap_sh...</sub><br><sub>Published: `2026-05-08`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
+| [**`CVE-2021-47948`**](https://nvd.nist.gov/vuln/detail/CVE-2021-47948) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.4**<br><sub>WordPress GetPaid Plugin 2.4.6 contains an HTML injection vulnerability that allows authentic...</sub><br><sub>Published: `2026-05-10`</sub> | [**MoodyBibleInstitute**](https://www.google.com/search?q=MoodyBibleInstitute%20data%20breach&tbm=nws) &nbsp; <sub>`moody.edu`</sub><br><sub>**2,303,416** accounts compromised</sub><br><sub>Data: `dates of birth` `email addresses` `genders` &nbsp;·&nbsp; Added: `2026-07-03`</sub> |
+| [**`CVE-2021-47947`**](https://nvd.nist.gov/vuln/detail/CVE-2021-47947) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.4**<br><sub>Projectsend r1295 contains a stored cross-site scripting vulnerability that allows authentica...</sub><br><sub>Published: `2026-05-10`</sub> | [**Sysco**](https://www.google.com/search?q=Sysco%20data%20breach&tbm=nws) &nbsp; <sub>`sysco.com`</sub><br><sub>**2,691,852** accounts compromised</sub><br><sub>Data: `customer feedback` `email addresses` `employers` &nbsp;·&nbsp; Added: `2026-06-28`</sub> |
+| [**`CVE-2021-47946`**](https://nvd.nist.gov/vuln/detail/CVE-2021-47946) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.3**<br><sub>OpenCart 3.0.3.6 contains a cross-site request forgery vulnerability in the /account/edit end...</sub><br><sub>Published: `2026-05-10`</sub> | [**AmericanTower**](https://www.google.com/search?q=AmericanTower%20data%20breach&tbm=nws) &nbsp; <sub>`americantower.com`</sub><br><sub>**216,601** accounts compromised</sub><br><sub>Data: `email addresses` `job titles` `names` &nbsp;·&nbsp; Added: `2026-06-26`</sub> |
 <!-- SECURITY-END -->
 ---
