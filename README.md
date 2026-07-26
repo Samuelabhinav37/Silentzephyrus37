@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-25 09:54 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-07-26 10:05 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-48905`**](https://nvd.nist.gov/vuln/detail/CVE-2026-48905) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.1**<br><sub>Lack of input filtering leads to an XSS vector in the HTML filter code.</sub><br><sub>Published: `2026-05-26`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
-| [**`CVE-2026-48904`**](https://nvd.nist.gov/vuln/detail/CVE-2026-48904) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.8**<br><sub>An improper access check allows privelege escalation through the com_users group editing webs...</sub><br><sub>Published: `2026-05-26`</sub> | [**Paidwork**](https://www.google.com/search?q=Paidwork%20data%20breach&tbm=nws) &nbsp; <sub>`paidwork.com`</sub><br><sub>**23,272,765** accounts compromised</sub><br><sub>Data: `bank account numbers` `dates of birth` `device information` &nbsp;·&nbsp; Added: `2026-07-19`</sub> |
-| [**`CVE-2026-48903`**](https://nvd.nist.gov/vuln/detail/CVE-2026-48903) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.1**<br><sub>Inadequate content filtering within the checkAttribute methods leads to XSS vulnerabilities i...</sub><br><sub>Published: `2026-05-26`</sub> | [**Fluke**](https://www.google.com/search?q=Fluke%20data%20breach&tbm=nws) &nbsp; <sub>`fluke.com`</sub><br><sub>**821,100** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `job titles` &nbsp;·&nbsp; Added: `2026-07-15`</sub> |
+| [**`CVE-2026-45860`**](https://nvd.nist.gov/vuln/detail/CVE-2026-45860) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+netfilter: nf_conncount:...</sub><br><sub>Published: `2026-05-27`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
+| [**`CVE-2026-45859`**](https://nvd.nist.gov/vuln/detail/CVE-2026-45859) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+netfilter: nfnetlink_que...</sub><br><sub>Published: `2026-05-27`</sub> | [**Paidwork**](https://www.google.com/search?q=Paidwork%20data%20breach&tbm=nws) &nbsp; <sub>`paidwork.com`</sub><br><sub>**23,272,765** accounts compromised</sub><br><sub>Data: `bank account numbers` `dates of birth` `device information` &nbsp;·&nbsp; Added: `2026-07-19`</sub> |
+| [**`CVE-2026-45858`**](https://nvd.nist.gov/vuln/detail/CVE-2026-45858) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+ext4: don't zero the ent...</sub><br><sub>Published: `2026-05-27`</sub> | [**Fluke**](https://www.google.com/search?q=Fluke%20data%20breach&tbm=nws) &nbsp; <sub>`fluke.com`</sub><br><sub>**821,100** accounts compromised</sub><br><sub>Data: `email addresses` `employers` `job titles` &nbsp;·&nbsp; Added: `2026-07-15`</sub> |
 <!-- SECURITY-END -->
 ---
