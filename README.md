@@ -33,12 +33,18 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-01 10:03 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-02 10:01 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-40715`**](https://nvd.nist.gov/vuln/detail/CVE-2026-40715) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>Dell ThinOS 10, versions prior to ThinOS10 2602_10.0765, contain an Improper Access Control v...</sub><br><sub>Published: `2026-06-02`</sub> | [**SplitVPN**](https://www.google.com/search?q=SplitVPN%20data%20breach&tbm=nws) &nbsp; <sub>`splitvpn.io`</sub><br><sub>**865,336** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-08-01`</sub> |
-| [**`CVE-2026-40713`**](https://nvd.nist.gov/vuln/detail/CVE-2026-40713) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **6.1**<br><sub>Dell ThinOS 10, versions prior to ThinOS10 2602_10.0765, contain an Improper Access control v...</sub><br><sub>Published: `2026-06-02`</sub> | [**HoustonCityCollege**](https://www.google.com/search?q=HoustonCityCollege%20data%20breach&tbm=nws) &nbsp; <sub>`hccs.edu`</sub><br><sub>**831,642** accounts compromised</sub><br><sub>Data: `academic records` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-07-28`</sub> |
-| [**`CVE-2026-33244`**](https://nvd.nist.gov/vuln/detail/CVE-2026-33244) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.4**<br><sub>React Router is a router for React. In versions 7.5.1 through 7.13.1, when using Framework Mo...</sub><br><sub>Published: `2026-06-02`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
+| [**`CVE-2026-46266`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46266) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+inet: RAW sockets using ...</sub><br><sub>Published: `2026-06-03`</sub> | [**SplitVPN**](https://www.google.com/search?q=SplitVPN%20data%20breach&tbm=nws) &nbsp; <sub>`splitvpn.io`</sub><br><sub>**865,336** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-08-01`</sub> |
+| [**`CVE-2026-46265`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46265) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+RDMA/hns: Fix WQ_MEM_REC...</sub><br><sub>Published: `2026-06-03`</sub> | [**HoustonCityCollege**](https://www.google.com/search?q=HoustonCityCollege%20data%20breach&tbm=nws) &nbsp; <sub>`hccs.edu`</sub><br><sub>**831,642** accounts compromised</sub><br><sub>Data: `academic records` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-07-28`</sub> |
+| [**`CVE-2026-46264`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46264) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
+
+drm/xe/pf: Fix sysfs ini...</sub><br><sub>Published: `2026-06-03`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
 <!-- SECURITY-END -->
 ---
