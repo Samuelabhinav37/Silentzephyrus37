@@ -33,18 +33,12 @@ The most complete map of the LLM attack landscape I've come across. Good place t
 
 <!-- SECURITY-START -->
 ## Threat Intelligence Feed
-<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-02 10:01 UTC</sub>
+<sub>Automated · NVD + HaveIBeenPwned · Last updated: 2026-08-03 11:31 UTC</sub>
 
 | VULNERABILITY &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | BREACH DISCLOSURE &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |
 | :--- | :--- |
-| [**`CVE-2026-46266`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46266) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.1**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-inet: RAW sockets using ...</sub><br><sub>Published: `2026-06-03`</sub> | [**SplitVPN**](https://www.google.com/search?q=SplitVPN%20data%20breach&tbm=nws) &nbsp; <sub>`splitvpn.io`</sub><br><sub>**865,336** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-08-01`</sub> |
-| [**`CVE-2026-46265`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46265) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.5**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-RDMA/hns: Fix WQ_MEM_REC...</sub><br><sub>Published: `2026-06-03`</sub> | [**HoustonCityCollege**](https://www.google.com/search?q=HoustonCityCollege%20data%20breach&tbm=nws) &nbsp; <sub>`hccs.edu`</sub><br><sub>**831,642** accounts compromised</sub><br><sub>Data: `academic records` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-07-28`</sub> |
-| [**`CVE-2026-46264`**](https://nvd.nist.gov/vuln/detail/CVE-2026-46264) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **8.8**<br><sub>In the Linux kernel, the following vulnerability has been resolved:
-
-drm/xe/pf: Fix sysfs ini...</sub><br><sub>Published: `2026-06-03`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
+| [**`CVE-2026-41207`**](https://nvd.nist.gov/vuln/detail/CVE-2026-41207) ![MEDIUM](https://img.shields.io/badge/MEDIUM-FFAA00?style=flat-square) **5.3**<br><sub>The netty incubator codec.bhttp is a java language binary http parser. Prior to version 0.0.2...</sub><br><sub>Published: `2026-06-04`</sub> | [**SplitVPN**](https://www.google.com/search?q=SplitVPN%20data%20breach&tbm=nws) &nbsp; <sub>`splitvpn.io`</sub><br><sub>**865,336** accounts compromised</sub><br><sub>Data: `device information` `email addresses` `geographic locations` &nbsp;·&nbsp; Added: `2026-08-01`</sub> |
+| [**`CVE-2026-25551`**](https://nvd.nist.gov/vuln/detail/CVE-2026-25551) ![HIGH](https://img.shields.io/badge/HIGH-FF6600?style=flat-square) **7.8**<br><sub>Seagull Software BarTender 2021 R1 through 12.0.1 contains an insecure deserialization vulner...</sub><br><sub>Published: `2026-06-04`</sub> | [**HoustonCityCollege**](https://www.google.com/search?q=HoustonCityCollege%20data%20breach&tbm=nws) &nbsp; <sub>`hccs.edu`</sub><br><sub>**831,642** accounts compromised</sub><br><sub>Data: `academic records` `citizenship statuses` `dates of birth` &nbsp;·&nbsp; Added: `2026-07-28`</sub> |
+| [**`CVE-2026-25550`**](https://nvd.nist.gov/vuln/detail/CVE-2026-25550) ![CRITICAL](https://img.shields.io/badge/CRITICAL-FF0000?style=flat-square) **9.8**<br><sub>Seagull Software BarTender 2010, 2016, and 2019 contain an unauthenticated remote code execut...</sub><br><sub>Published: `2026-06-04`</sub> | [**Suno**](https://www.google.com/search?q=Suno%20data%20breach&tbm=nws) &nbsp; <sub>`suno.com`</sub><br><sub>**55,282,226** accounts compromised</sub><br><sub>Data: `email addresses` `names` `partial credit card data` &nbsp;·&nbsp; Added: `2026-07-20`</sub> |
 <!-- SECURITY-END -->
 ---
